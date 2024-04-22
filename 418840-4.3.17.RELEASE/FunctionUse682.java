@@ -1,0 +1,7 @@
+import org.springframework.core.annotation.AbstractAliasAwareAnnotationAttributeExtractor;
+public class FunctionUse682 {
+public void funcUse() {
+AbstractAliasAwareAnnotationAttributeExtractor abstractaliasawareannotationattributeextractor = new AbstractAliasAwareAnnotationAttributeExtractor();
+abstractaliasawareannotationattributeextractor.getAnnotationType();
+}
+}

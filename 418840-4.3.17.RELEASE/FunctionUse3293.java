@@ -1,0 +1,6 @@
+import org.springframework.util.xml.XmlValidationModeDetector;
+public class FunctionUse3293 {
+public void funcUse() {
+XmlValidationModeDetector xmlvalidationmodedetector = new XmlValidationModeDetector();
+}
+}
